@@ -1,3 +1,6 @@
 [submodule "third_party/colmap"]
 	path = third_party/colmap
 	url = https://github.com/colmap/colmap.git
+[submodule "third_party_module/colmap"]
+	path = third_party_module/colmap
+	url = https://github.com/colmap/colmap.git
